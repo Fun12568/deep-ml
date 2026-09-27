@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 4 problems · 0 labs · 3 math
+**8** solved · 5 problems · 0 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-09-27 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-27 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-27 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-27 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
